@@ -1,0 +1,9 @@
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/verite.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/verite_autogen_timestamp_deps.dir
+C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/verite_autogen.dir
