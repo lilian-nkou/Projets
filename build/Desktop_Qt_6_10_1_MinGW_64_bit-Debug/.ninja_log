@@ -1,0 +1,13 @@
+# ninja log v6
+21	2013	7886302814817340	verite_autogen/timestamp	313ce377be97c9f8
+21	2013	7886302814817340	verite_autogen/mocs_compilation.cpp	313ce377be97c9f8
+21	2013	7886302814817340	C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/verite_autogen/timestamp	313ce377be97c9f8
+21	2013	7886302814817340	C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/verite_autogen/mocs_compilation.cpp	313ce377be97c9f8
+2031	9369	7886302816612957	CMakeFiles/verite.dir/verite_autogen/mocs_compilation.cpp.obj	d2eeab3ccd3ba1e4
+2042	9474	7886302816708445	CMakeFiles/verite.dir/main.cpp.obj	57aa2a984c6f6f5b
+35	411	7886304121931448	verite_autogen/timestamp	313ce377be97c9f8
+35	411	7886304121931448	verite_autogen/mocs_compilation.cpp	313ce377be97c9f8
+35	411	7886304121931448	C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/verite_autogen/timestamp	313ce377be97c9f8
+35	411	7886304121931448	C:/verite/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/verite_autogen/mocs_compilation.cpp	313ce377be97c9f8
+418	7165	7886304125761469	CMakeFiles/verite.dir/mainwindow.cpp.obj	593d6ed50b9c966d
+7165	7887	7886304193230236	verite.exe	9a99f80999bf4a2f
